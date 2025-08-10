@@ -7,7 +7,7 @@
 bool is_first_time = true;
 int selection = NULL;
 
-std::vector<std::string> tasks = {"testa", "testb", "testc"};
+std::vector<std::string> tasks;
 
 static void lbr() {
     std::cout << "\n";
