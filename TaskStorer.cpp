@@ -18,7 +18,7 @@ static void str_and_break(std::string input) {
 }
 
 static void intro() {
-    str_and_break("Welcome to the Task Manager (totally original)!");
+    str_and_break("Welcome to the Task Storer!");
     str_and_break("Here, you can make and see your tasks here.");
     str_and_break("#----------#");
 }
